@@ -1,0 +1,12 @@
+# Секрети — НІКОЛИ не комітити токен бота
+.env
+
+# Локальна база даних
+data/*.db
+data/*.db-journal
+
+# Bundler / системні файли
+.bundle/
+vendor/bundle/
+*.log
+.DS_Store
