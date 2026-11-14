@@ -43,7 +43,7 @@ link_manager_bot/
 1. Встановіть Ruby 3.0 або новіший (`ruby -v`) та Bundler (`gem install bundler`).
 2. Склонуйте репозиторій і встановіть залежності:
    ```bash
-   git clone https://github.com/<ваш-логін>/link-manager-bot.git
+   git clone https://github.com/andriy1144/link-manager-bot.git
    cd link-manager-bot
    bundle install
    ```
